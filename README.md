@@ -218,6 +218,7 @@ while True:
 ## OUTOUT
 <img width="436" height="741" alt="image" src="https://github.com/user-attachments/assets/72866e16-e5b0-4a56-9a63-56752ec1ba85" />
 <img width="395" height="668" alt="image" src="https://github.com/user-attachments/assets/303bd5af-b57e-4126-b69b-f1957547940c" />
+<img width="379" height="304" alt="image" src="https://github.com/user-attachments/assets/5ae76f44-cb2a-48ff-b8a2-a8a6fa636c84" />
 
 <hr>
 <h2>Result:</h2>
